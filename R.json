@@ -1,0 +1,25 @@
+{
+    "images" : [
+        {"name" : "bg_day", "url" : "R/images/bg_day.png"},
+        {"name" : "bg_night", "url" : "R/images/bg_night.png"},
+        {"name" : "land", "url" : "R/images/land.png"},
+        {"name" : "bird0_0", "url" : "R/images/bird0_0.png"},
+        {"name" : "bird0_1", "url" : "R/images/bird0_1.png"},
+        {"name" : "bird0_2", "url" : "R/images/bird0_2.png"},
+        {"name" : "pipe_up", "url" : "R/images/pipe_up.png"},
+        {"name" : "pipe_down", "url" : "R/images/pipe_down.png"},
+        {"name" : "num0", "url" : "R/images/num0.png"},
+        {"name" : "num1", "url" : "R/images/num1.png"},
+        {"name" : "num2", "url" : "R/images/num2.png"},
+        {"name" : "num3", "url" : "R/images/num3.png"},
+        {"name" : "num4", "url" : "R/images/num4.png"},
+        {"name" : "num5", "url" : "R/images/num5.png"},
+        {"name" : "num6", "url" : "R/images/num6.png"},
+        {"name" : "num7", "url" : "R/images/num7.png"},
+        {"name" : "num8", "url" : "R/images/num8.png"},
+        {"name" : "num9", "url" : "R/images/num9.png"},
+        {"name" : "title", "url" : "R/images/title.png"},
+        {"name" : "button_play", "url" : "R/images/button_play.png"},
+        {"name" : "text_game_over", "url" : "R/images/text_game_over.png"}
+    ]
+}
